@@ -5,7 +5,7 @@ All Problem's Solution of September 2021 Challenge
 
 | Day | Problem | Language |  Solution |
 |---|---|---|---|
-| 1 | Array Nesting | Java | [Solution-1](https://github.com/mihir145/Leetcode-September-2021-Challenge/tree/main/Challenge%231) |
+| 1 | Array Nesting | Java | [Solution-1](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%231/Solution.java) |
 | 2 | | Java | |
 | 3 | | Java | |
 | 4 | | Java | |
