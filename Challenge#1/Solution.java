@@ -22,7 +22,7 @@ class Solution {
         }
         return result;
     }
-    //Optimal
+    //Better
     public int arrayNest(int nums[]){
         int result = 0;
         int i = 0;
