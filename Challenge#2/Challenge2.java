@@ -3,7 +3,7 @@ package Day2;
 import java.util.List;
 import java.util.Scanner;
 
-public class Ch2 {
+public class Challenge2 {
     public static void preorder(TreeNode root){
         if(root==null) return;
         System.out.print(root.val + " ");
