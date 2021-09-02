@@ -2,7 +2,8 @@ import java.util.HashSet;
 import java.util.Iterator;
 
 class Solution {
-    //naive Approach - Gives TLE
+    //naive Approach - Gives TLE 
+    // Time - O(n^2)   Space - O(n^2)
     public int arrayNesting(int[] nums) {
         int result = 0;
         int i = 0;
@@ -21,6 +22,7 @@ class Solution {
         return result;
     }
     //Better
+    // Time - O(n)  Space - O(n)
     public int arrayNest(int nums[]){
         int result = 0;
         int i = 0;
