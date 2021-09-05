@@ -33,7 +33,7 @@ public class Solution {
                 continue;
 
             dfs(i, root);
-            count[root] += count[i];    // no. of nodes rooted under current node += count[child]
+            count[root] += count[i]; 
             res[root] += res[i] + count[i];
         }
     }
@@ -44,7 +44,7 @@ public class Solution {
             if(i == pre)
                 continue;
 
-            res[i] = res[root] - count[i] + count.length - count[i];    // res[i] = res[root] - x + (   N-x)
+            res[i] = res[root] - count[i] + count.length - count[i]; 
             dfs2(i, root);
         }
     }
