@@ -8,8 +8,8 @@ All Problem's Solution of September 2021 Challenge
 | 1 | Array Nesting | Java | Medium | [Problem-1](https://leetcode.com/problems/array-nesting) | [Solution-1](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%231/Solution.java) |
 | 2 | Unique BSTs-ii | Java | Medium | [Problem-2](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Solution-2](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%232/Solution.java) |
 | 3 | | Java | - | - | - | - |
-| 4 | | Java | Sum of Distances in Tree | Hard | [Problem-4](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Solution-4](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%234/Solution.java) |
-| 5 | | Java | Orderly Queue | Hard | [Problem-5](https://leetcode.com/problems/orderly-queue/) | [Solution-5](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%235/Solution.java) |
+| 4 | Sum of Distances in Tree| Java |  Hard | [Problem-4](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Solution-4](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%234/Solution.java) |
+| 5 | Orderly Queue | Java | Hard | [Problem-5](https://leetcode.com/problems/orderly-queue/) | [Solution-5](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%235/Solution.java) |
 | 6 | | Java | ||||
 | 7 | | Java | ||||
 | 8 | | Java | ||||
