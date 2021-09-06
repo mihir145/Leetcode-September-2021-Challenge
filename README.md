@@ -10,7 +10,7 @@ All Problem's Solution of September 2021 Challenge
 | 3 | | Java | - | - | - | - |
 | 4 | Sum of Distances in Tree| Java |  Hard | [Problem-4](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Solution-4](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%234/Solution.java) |
 | 5 | Orderly Queue | Java | Hard | [Problem-5](https://leetcode.com/problems/orderly-queue/) | [Solution-5](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%235/Solution.java) |
-| 6 | | Java | ||||
+| 6 | Slowest Key | Java | Easy | [Problem-6](https://leetcode.com/problems/slowest-key/) | [Solution-6](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%236/Solution.java) |
 | 7 | | Java | ||||
 | 8 | | Java | ||||
 | 9 | | Java | ||||
