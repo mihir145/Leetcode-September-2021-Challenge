@@ -7,11 +7,11 @@ All Problem's Solution of September 2021 Challenge
 |---|---|---|---|---|---|
 | 1 | Array Nesting | Java | Medium | [Problem-1](https://leetcode.com/problems/array-nesting) | [Solution-1](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%231/Solution.java) |
 | 2 | Unique BSTs-ii | Java | Medium | [Problem-2](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Solution-2](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%232/Solution.java) |
-| 3 | | Java | - | - | - | - |
+| 3 | - | Java | - | - | - | - |
 | 4 | Sum of Distances in Tree| Java |  Hard | [Problem-4](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Solution-4](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%234/Solution.java) |
 | 5 | Orderly Queue | Java | Hard | [Problem-5](https://leetcode.com/problems/orderly-queue/) | [Solution-5](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%235/Solution.java) |
 | 6 | Slowest Key | Java | Easy | [Problem-6](https://leetcode.com/problems/slowest-key/) | [Solution-6](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%236/Solution.java) |
-| 7 | | Java | ||||
+| 7 | Reverse Linked List | Java | Easy | [Problem-7](https://leetcode.com/problems/reverse-linked-list/) | [Solution-7](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%237/Solution.java) |
 | 8 | | Java | ||||
 | 9 | | Java | ||||
 | 10 | | Java | ||||
