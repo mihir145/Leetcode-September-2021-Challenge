@@ -12,7 +12,7 @@ All Problem's Solution of September 2021 Challenge
 | 5 | Orderly Queue | Java | Hard | [Problem-5](https://leetcode.com/problems/orderly-queue/) | [Solution-5](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%235/Solution.java) |
 | 6 | Slowest Key | Java | Easy | [Problem-6](https://leetcode.com/problems/slowest-key/) | [Solution-6](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%236/Solution.java) |
 | 7 | Reverse Linked List | Java | Easy | [Problem-7](https://leetcode.com/problems/reverse-linked-list/) | [Solution-7](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%237/Solution.java) |
-| 8 | | Java | ||||
+| 8 | Shifting Letters | Java | Medium | [Problem-8](https://leetcode.com/problems/shifting-letters/) | [Solution-8](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%238/Solution.java) |
 | 9 | | Java | ||||
 | 10 | | Java | ||||
 | 11 | | Java | ||||
@@ -24,7 +24,7 @@ All Problem's Solution of September 2021 Challenge
 | 17 | | Java | ||||
 | 18 | | Java | ||||
 | 19 | | Java | ||||
-| 20| | Java | ||||
+| 20 | | Java | ||||
 | 21 | | Java | ||||
 | 22 | | Java | ||||
 | 23 | | Java | ||||
