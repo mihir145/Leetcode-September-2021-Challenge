@@ -13,9 +13,9 @@ All Problem's Solution of September 2021 Challenge
 | 6 | Slowest Key | Java | Easy | [Problem-6](https://leetcode.com/problems/slowest-key/) | [Solution-6](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%236/Solution.java) |
 | 7 | Reverse Linked List | Java | Easy | [Problem-7](https://leetcode.com/problems/reverse-linked-list/) | [Solution-7](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%237/Solution.java) |
 | 8 | Shifting Letters | Java | Medium | [Problem-8](https://leetcode.com/problems/shifting-letters/) | [Solution-8](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%238/Solution.java) |
-| 9 | | Java | ||||
-| 10 | | Java | ||||
-| 11 | | Java | ||||
+| 9 | Largest Plus Sign | Java | Medium | [Problem-9](https://leetcode.com/problems/largest-plus-sign/) | [Solution-9](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%239/Solution.java) |
+| 10 | Arithmetic Slices II - Subsequence | Java | Hard | [Problem-10](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Solution-10](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%2310/Solution.java) |
+| 11 | Basic Calculator | Java | Hard | [Problem-11](https://leetcode.com/problems/basic-calculator/) | [Solution-11](https://github.com/mihir145/Leetcode-September-2021-Challenge/blob/main/Challenge%2311/Solution.java) |
 | 12 | | Java | ||||
 | 13 | | Java | ||||
 | 14 | | Java | ||||
